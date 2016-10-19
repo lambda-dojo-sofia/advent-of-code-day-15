@@ -5,6 +5,13 @@ Development methodology used was Pair Programming with 20 min Pomodoro sessions 
 
 ## List of solutions
 
+### Python 3
+
+Also works with PyPy3, for extra JIT.
+
+    ./python3.py input.txt
+    pypy3 python3.py input.txt
+
 ## License
 
 Copyright © 2016
